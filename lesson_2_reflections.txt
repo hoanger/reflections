@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A .git directory is created so you can start adding commits.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+You can make changes before saving the commit to teh repository and compare with what you haven't added from wd.
