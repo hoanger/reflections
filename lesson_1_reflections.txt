@@ -1,6 +1,6 @@
 How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
-It was very gelpful. diff can pinpoint differences in large files that would otherwise take a long time by hand.
+It was very helpful. diff can pinpoint differences in large files that would otherwise take a long time by hand.
 
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
