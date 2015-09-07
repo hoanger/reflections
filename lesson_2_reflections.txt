@@ -5,3 +5,27 @@ A .git directory is created so you can start adding commits.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 You can make changes before saving the commit to teh repository and compare with what you haven't added from wd.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can seperate changes by putting files into the staging area for one change, then commit. After that, you can
+add the next set of files and commit those seperately.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When trying an experimental feature or version, you can branch and still work on the master later.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagram allows you to visualize the visibility of each git commit. Since they follow a direction, it is easy to
+follow.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It creates a new master branch with the merged changes form both branches. The diagram shows the visibility of
+the commits from the new master.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: Auto merges saves time when there are no conflicts.
+Cons: It isn't smart enough to know what the conflict is and how to fix.
