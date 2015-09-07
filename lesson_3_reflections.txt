@@ -19,3 +19,10 @@ What is the benefit of having a copy of the last known state of the remote store
 
 When you go offline, you have the most up to date version at that point. Merges will less likely have 
 conflicts.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+For small projects, Google Docs kees track of history. We would have to communicate before working on the 
+file first. That way only one of us can make changes. It would be easy because conflicts are easier to 
+manage, but harder because it's hard to compare changes and would take longer since only one can work at 
+a time.
