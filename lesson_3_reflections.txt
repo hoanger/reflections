@@ -14,3 +14,8 @@ entire repository. Branching creates a new commit branch locally. Forking is use
 has an existing project and you want to create your own version based on it. Cloning is when you want to 
 duplicate the repository and add to it (if you have permission to push). Branching allows you to work on 
 a local code version on a repository you already cloned or forked.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+When you go offline, you have the most up to date version at that point. Merges will less likely have 
+conflicts.
