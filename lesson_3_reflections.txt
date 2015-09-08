@@ -26,3 +26,10 @@ For small projects, Google Docs kees track of history. We would have to communic
 file first. That way only one of us can make changes. It would be easy because conflicts are easier to 
 manage, but harder because it's hard to compare changes and would take longer since only one can work at 
 a time.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits 
+does each approach have?
+
+When you are not the owner of the project or if you want to work on something that isn't a simple bug fix. 
+Pull requests allow someone to look at the code before merging and notifies the different parties of 
+updates. Merging to master is quicker, but will not notify collaborators of the change.
